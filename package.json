@@ -10,7 +10,7 @@
   "description": "",
   "dependencies": {
     "@metamask/sdk": "^0.27.0",
-    "web3": "^4.11.1"
+    "ethers": "^6.13.2"
   },
   "type": "module"
 }
